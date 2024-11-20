@@ -43,15 +43,3 @@ You can install the required dependencies using `pip`:
 
 ```bash
 pip install opencv-python numpy matplotlib scikit-learn imutils
-## License 
-This project is open-source and available under the MIT License.
-
-### Steps to add the README to your repository:
-1. Create a `README.md` file in the root of your project directory.
-2. Copy and paste the above content into that file.
-3. Commit and push the file to GitHub:
-
-```bash
-git add README.md
-git commit -m "Added README"
-git push origin master
